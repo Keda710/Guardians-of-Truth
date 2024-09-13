@@ -280,4 +280,5 @@ The project was developed by the following contributors-
   - Naman Singhania
   - Mayank Goel
   - Vishnu
+  - Keval
 
